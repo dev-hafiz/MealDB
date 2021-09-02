@@ -98,6 +98,7 @@ const modalDisplay = dataModal => {
             <h5 class="card-title">${dataModal.strMeal}</h5>
             
             <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
      `
      ModalOrder.appendChild(modalChildModo);
 }
